@@ -48,11 +48,9 @@ class UcssParser {
 	public function __destruct() {
 		fclose($this->ucss);
 	}
-	public function parse(){
+	public function parse($html, $ucss, $settings){
 		
-		while ($currentLine = fgets($this->ucss)) {
-			echo $currentLine;
-		}
+		
 	
 
 		

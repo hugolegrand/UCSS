@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"currentLine"
+			],
+			[
+				"lis",
+				"listOfDomain"
+			],
+			[
+				"list",
+				"listOfMixins"
+			],
+			[
+				"arrayof",
+				"arrayOfKeyValue"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"line",
+				"lineBuffer"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"array",
+				"arrayOfLine"
+			],
+			[
+				"ne",
+				"newNestedDomain"
+			],
+			[
+				"nested",
+				"nestedDomains"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ch",
+				"CHROMELASTVERSION"
+			],
+			[
+				"Chrom",
+				"Chrome_16"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"bro",
+				"browserName"
+			],
+			[
+				"curren",
+				"current_browser"
+			],
+			[
+				"inli",
+				"inline-block  (value)"
+			],
+			[
+				"na",
+				"navElementWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ucss.php",
+			"settings":
+			{
+				"buffer_size": 3166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ucssParser.class.php",
+			"settings":
+			{
+				"buffer_size": 2912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/UCSS/index.php",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/UCSS/.gitignore",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"soda",
+				"Preferences: Global Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"conso",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/UCSS/render/test.ucss",
+		"/Applications/MAMP/htdocs/UCSS/render/safari.class.php",
+		"/Applications/MAMP/htdocs/UCSS/render/opera.class.php",
+		"/Applications/MAMP/htdocs/UCSS/render/chrome.class.php",
+		"/Applications/MAMP/htdocs/UCSS/render/firefox.class.php",
+		"/Applications/MAMP/htdocs/UCSS/render/IE.class.php",
+		"/Applications/MAMP/htdocs/UCSS/render/ucss.php",
+		"/Applications/MAMP/htdocs/UCSS/index.php",
+		"/Applications/MAMP/htdocs/UCSS/render/browScap.class.php",
+		"/Applications/MAMP/htdocs/UCSS/sftp-config.json",
+		"/Users/utilisateur/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/timenut",
+		"/Applications/MAMP/htdocs/UCSS/index.html",
+		"/Applications/MAMP/htdocs/UCSS/render/BrowserVersion.php",
+		"/Users/utilisateur/Downloads/GaretJax-phpbrowscap-da25a76/browscap/Browscap.php",
+		"/Users/utilisateur/Sites/EssaiClasse/scss/workflow.scss",
+		"/Users/utilisateur/Sites/EssaiClasse/workflow.html",
+		"/Users/utilisateur/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/StSchintzler/index.html",
+		"/Applications/MAMP/htdocs/ClasseControl/src/Sdz/BlogBundle/Resources/views/Blog/voir.html.twig.html",
+		"/Applications/MAMP/htdocs/ClasseControl/app/config/routing.yml",
+		"/Applications/MAMP/htdocs/ClasseControl/src/Sdz/BlogBundle/Resources/config/routing.yml",
+		"/Applications/MAMP/htdocs/ClasseControl/src/Sdz/BlogBundle/Resources/views/Blog/byebye.html.twig",
+		"/Applications/MAMP/htdocs/ClasseControl/src/Sdz/BlogBundle/Resources/views/Blog/index.html.twig",
+		"/Applications/MAMP/htdocs/ClasseControl/app/config/config.yml",
+		"/Applications/MAMP/htdocs/ClasseControl/app/AppKernel.php",
+		"/Applications/MAMP/htdocs/ClasseControl/src/Sdz/BlogBundle/Resources/views/Default/index.html.twig",
+		"/Users/utilisateur/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div id=\"navBox\">\n    Hello\n    </div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ucss.php",
+					"settings":
+					{
+						"buffer_size": 3166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1830,
+								1830
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ucssParser.class.php",
+					"settings":
+					{
+						"buffer_size": 2912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2907,
+								2907
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/UCSS/index.php",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/UCSS/.gitignore",
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scss/workflow.scss"
+			],
+			[
+				"appconfirou",
+				"app/config/routing.yml"
+			],
+			[
+				"appconf",
+				"app/config/config.yml"
+			],
+			[
+				"appke",
+				"app/AppKernel.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true
+}
