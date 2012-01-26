@@ -1,8 +1,10 @@
 
-render/ucss.sublime-project
+ucss.sublime-project
 
-render/ucss.sublime-workspace
+ucss.sublime-workspace
 
 sftp-config.json
 
+.gitignore
 
+.DS_Store
